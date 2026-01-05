@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Pro Voice Studio",
+  "description": "A professional-grade Text-to-Speech, Transcription, and Live Voice Chat application powered by Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
